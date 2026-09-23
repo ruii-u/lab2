@@ -1,0 +1,26 @@
+body{
+   margin: 0;
+   min-height: 100vh;
+   background-color: #87CEEB; 
+   font-family: Arial, sans-serif;
+
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   align-items: center;
+   Text-align: center;
+}
+
+#fish{
+
+    font-size: 80px;
+}
+
+button{
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    background-color: #c263a2;
+    color: white;
+
+}
